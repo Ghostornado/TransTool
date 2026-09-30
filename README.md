@@ -16,7 +16,7 @@
 
 ### 方式一：免安装 Node（Windows）
 
-1. 下载发布包解压到任意位置（包内自带 `node.exe`），或克隆本仓库后把 Node.js 的 `node.exe` 放进目录
+1. 从 [Releases](https://github.com/Ghostornado/TransTool/releases) 页面下载发布包（如 `TransTool-v1.1.zip`，包内自带 `node.exe`），解压到任意位置；也可以克隆本仓库后把 Node.js 的 `node.exe` 放进目录
 2. 双击 `start.bat`（首次运行放行防火墙「专用网络」）
 3. 手机连同一 Wi-Fi，浏览器扫终端窗口里的二维码即可
 
