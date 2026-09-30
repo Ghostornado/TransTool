@@ -1,0 +1,16 @@
+{
+  "uploadDir": "D:\\Receive",
+  "maxFileMB": 2048,
+  "blockedExts": [
+    "exe",
+    "bat",
+    "cmd",
+    "com",
+    "scr",
+    "vbs",
+    "ps1",
+    "msi",
+    "dll",
+    "jar"
+  ]
+}

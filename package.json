@@ -1,0 +1,14 @@
+{
+  "name": "transtool",
+  "version": "1.0.0",
+  "description": "局域网文件传输工具：PC 启动本地服务，手机浏览器扫码互传文件/图片/文本",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "qrcode": "^1.5.4",
+    "qrcode-terminal": "^0.12.0"
+  }
+}

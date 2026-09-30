@@ -1,0 +1,16 @@
+# ---- 用户隐私数据：绝不入库 ----
+# 接收的文件
+uploads/
+# 本机配置（含个人接收目录绝对路径）
+data/config.json
+# 传输文本记录 / 访问日志（含传输内容与内网 IP）
+data/texts.json
+data/access.log
+
+# ---- 运行时与依赖（可重新获取） ----
+node_modules/
+node.exe
+
+# ---- 发布产物 ----
+*.zip
+*_stage/
